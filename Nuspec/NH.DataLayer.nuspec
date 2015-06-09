@@ -17,6 +17,7 @@
       <dependency id="eXpandNHibernateCore" version="14.2.7.2" />
       <dependency id="FluentNHibernate" version="3.3.3.4001" />
       <dependency id="NHibernate" version="3.3.3.4001" />
+	  <dependency id="Serialize.Linq" version="[1.2.3]" />
     </dependencies>
   </metadata>
   <files>
